@@ -1,6 +1,8 @@
-# UpperResnet
+UpperResnet
+===========
 
-##Solution for [text segmentation by NTO AI](https://ods.ai/competitions/ai-nto-task1)
+Solution for [text segmentation by NTO AI](https://ods.ai/competitions/ai-nto-task1)
+------------------------------------------------------------------------------------
 ###Modules
  - [Model](https://github.com/danil31219as/UpperResnet/blob/main/upper_model.py)
  - [Training](https://github.com/danil31219as/UpperResnet/blob/main/upper_model_training.ipynb)
